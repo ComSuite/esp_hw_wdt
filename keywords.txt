@@ -1,0 +1,22 @@
+#######################################
+# Syntax Coloring Map For ComSuiteIoT
+# Use TAB to seperate identifiers
+#         and KEYWORD specifiers!
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+esp_hw_wdt_enable
+esp_hw_wdt_disable
+esp_hw_wdt_feed
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+

@@ -1,0 +1,7 @@
+{
+  "name": "esp_hw_wdt",
+  "keywords": "esp, hardware, watchdog, wdt",
+  "description": "An Arduino library to enable HW WDT for ESP8266",
+  "frameworks": "arduino",
+  "platforms": "atmelavr"
+}
